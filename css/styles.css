@@ -11494,9 +11494,14 @@ footer.footer .social-link:hover {
   background-size: 660px 495px ;
 }
 .scigif h1, .scigif .h1 {
-  font-size: 4rem;
+  font-size: 6rem;
   margin: 0;
   padding: 0;
+  position:relative;
+  top: -300px;
+  left: 50px;
+  margin-left:0px;
+  margin-right:0px;
 }
 @media (min-width: 992px) {
   .scigif {
